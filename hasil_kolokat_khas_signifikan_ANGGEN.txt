@@ -1,0 +1,31 @@
+collocs	gloss	anggon	anggen	p_fye	CollStr	tingkatan	varian	sumber
+sané	yang	1	116	2.08E-23	22.68	alus	mider	BASABali Wiki
+ring	di	0	53	9.12E-12	11.04	alus	mider	BASABali Wiki
+punika	itu	2	54	1.35E-09	8.87	alus	mider	BASABali Wiki
+becik	baik	0	35	5.31E-08	7.28	alus	mider	BASABali Wiki
+prasida	"selesai dengan baik; bisa"	0	30	5.86E-07	6.23	alus	mider	intuisi
+dados	"bisa; dapat"	0	29	9.47E-07	6.02	alus	mider	BASABali Wiki
+mangda	"sehingga; supaya"	0	27	2.47E-06	5.61	alus	mider	BASABali Wiki
+patut	"baik; tepat"	2	36	3.67E-06	5.44	alus	mider	BASABali Wiki
+nénten	tidak	0	26	3.99E-06	5.4	alus	mider	BASABali Wiki
+pisan	sekali	0	26	3.99E-06	5.4	alus	mider	BASABali Wiki
+ngrereh	mendapat	0	25	6.45E-06	5.19	alus	mider	diskusi
+genah	tempat	0	23	1.68E-05	4.77	andap		BASABali Wiki
+pinaka	sebagai	0	23	1.68E-05	4.77	andap		BASABali Wiki
+puniki	ini	0	23	1.68E-05	4.77	alus	mider	BASABali Wiki
+prabéa	biaya	0	20	7.08E-05	4.15	andap		BASABali Wiki
+titiang	saya	0	20	7.08E-05	4.15	alus	sor	BASABali Wiki
+nyanggra	melaksanakan	0	19	1.14E-04	3.94	andap		BASABali Wiki
+wantah	"hanya; saja"	1	22	2.55E-04	3.59	andap		BASABali Wiki
+wénten	ada	0	17	2.98E-04	3.53	alus	mider	BASABali Wiki
+jagi	akan	0	16	4.80E-04	3.32	andap		BASABali Wiki
+angga	badan	0	15	7.75E-04	3.11	andap		BASABali Wiki
+taler	juga	0	15	7.75E-04	3.11	andap		BASABali Wiki
+bali	bali	1	19	9.41E-04	3.03	NA		BASABali Wiki
+pacang	akan	0	14	0.001250605	2.9	andap		BASABali Wiki
+sarana	sarana	1	17	0.002222939	2.65	andap		BASABali Wiki
+utawi	atau	3	22	0.00428201	2.37	andap		BASABali Wiki
+ipun	dia	0	11	0.005247692	2.28	alus	sor	BASABali Wiki
+lan	dan	12	44	0.006266998	2.2	andap		BASABali Wiki
+nagingin	mengisi	0	10	0.008462271	2.07	andap		BASABali Wiki
+ri	di	0	10	0.008462271	2.07	alus	mider	BASABali Wiki

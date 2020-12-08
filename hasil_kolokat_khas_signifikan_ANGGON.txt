@@ -1,0 +1,47 @@
+collocs	gloss	anggon	anggen	p_fye	CollStr	tingkatan	varian	sumber
+dadi	bisa	38	1	1.98E-15	14.7	andap		BASABali Wiki
+ané	yang	43	3	2.29E-15	14.64	andap_kasar		BASABali Wiki
+meli	membeli	33	1	2.33E-13	12.63	andap_kasar		BASABali Wiki
+sing	tidak	25	0	2.70E-11	10.57	andap		BASABali Wiki
+lakar	akan	28	2	2.54E-10	9.59	andap_kasar		BASABali Wiki
+apa	apa	22	0	5.06E-10	9.3	andap		BASABali Wiki
+pis	uang	21	0	1.34E-09	8.87	andap		BASABali Wiki
+ada	ada	20	0	3.57E-09	8.45	andap_kasar		BASABali Wiki
+pipis	uang	29	4	3.64E-09	8.44	andap		BASABali Wiki
+ento	itu	21	1	1.89E-08	7.72	andap_kasar		BASABali Wiki
+ngalih	mencari	18	0	2.51E-08	7.6	andap		BASABali Wiki
+apang	"sehingga; supaya"	18	1	3.06E-07	6.51	andap_kasar		BASABali Wiki
+tusing	tidak	15	0	4.67E-07	6.33	andap		BASABali Wiki
+di	di	14	0	1.24E-06	5.91	mider		BASABali Wiki
+gén	saja	12	0	8.66E-06	5.06	andap		BASABali Wiki
+keneh	pikiran	13	1	2.97E-05	4.53	andap_kasar		BASABali Wiki
+mayah	membayar	13	1	2.97E-05	4.53	andap		BASABali Wiki
+tiang	saya	26	11	6.31E-05	4.2	alus	madya	BASABali Wiki
+nyidayang	mampu	9	0	1.60E-04	3.8	andap		BASABali Wiki
+suba	sudah	9	0	1.60E-04	3.8	andap		BASABali Wiki
+tongos	tempat	11	1	1.80E-04	3.75	andap_kasar		BASABali Wiki
+ngaé	membuat	10	1	4.38E-04	3.36	andap_kasar		BASABali Wiki
+tuah	hanya	9	1	0.001057364	2.98	andap_kasar		BASABali Wiki
+carik	sawah	7	0	0.001119879	2.95	andap		intuisi
+liu	banyak	7	0	0.001119879	2.95	andap		BASABali Wiki
+mesuang	mengeluarkan	7	0	0.001119879	2.95	andap		BASABali Wiki
+né	ini	7	0	0.001119879	2.95	andap_kasar		BASABali Wiki
+yéh	air	7	0	0.001119879	2.95	andap		BASABali Wiki
+ngelah	memiliki	11	3	0.002341996	2.63	andap		BASABali Wiki
+ba	sudah	8	1	0.002531378	2.6	andap_kasar		BASABali Wiki
+jalan	jalan	8	1	0.002531378	2.6	andap		BASABali Wiki
+yén	kalau	8	1	0.002531378	2.6	andap		BASABali Wiki
+amonto	segitu	6	0	0.002958754	2.53	andap_kasar		BASABali Wiki
+jani	sekarang	6	0	0.002958754	2.53	andap_kasar		BASABali Wiki
+kal	akan	6	0	0.002958754	2.53	andap_kasar		BASABali Wiki
+kén	mana	6	0	0.002958754	2.53	andap_kasar		BASABali Wiki
+kéto	begitu	6	0	0.002958754	2.53	andap_kasar		BASABali Wiki
+luung	bagus	6	0	0.002958754	2.53	andap		BASABali Wiki
+pang	biarkan	6	0	0.002958754	2.53	andap		BASABali Wiki
+dogén	saja	5	0	0.007814768	2.11	andap		BASABali Wiki
+kopi	kopi	5	0	0.007814768	2.11	andap		BASABali Wiki
+masi	juga	5	0	0.007814768	2.11	andap_kasar		BASABali Wiki
+mula	memang	5	0	0.007814768	2.11	andap		BASABali Wiki
+nyeduh	merebus	5	0	0.007814768	2.11	andap		BASABali Wiki
+to	itu	5	0	0.007814768	2.11	andap_kasar		BASABali Wiki
+tuak	tuak	5	0	0.007814768	2.11	andap		BASABali Wiki

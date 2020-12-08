@@ -1,0 +1,5 @@
+tingkatan	Jumlah tipe kolokat	SumCollStr
+andap	16	97.42999999999999
+andap_kasar	12	79.71
+mider	1	5.91
+alus	1	4.2

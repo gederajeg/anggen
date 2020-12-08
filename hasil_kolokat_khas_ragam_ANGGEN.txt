@@ -1,0 +1,3 @@
+tingkatan	Jumlah tipe kolokat	SumCollStr
+alus	16	105.96
+andap	13	42.949999999999996
