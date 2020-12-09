@@ -94,11 +94,14 @@ fig2
 fig2 + ggsave(filename = "fig2-distribusi-akhiran-nasal.png", 
               width = 6.5, height = 5.5, dpi = 300)
 
-## Chi-Square Test ========
+## Chi-Square Test bentuk dasar ========
 chisq.test(ANGGO, correct = FALSE)
 chisq.test(ANGGO, correct = FALSE)$expected # keluarkan frekuensi harapan
 
-## Phi coefficient =========
+## Odds Ratio bentuk dasar =======
+round(fisher.test(ANGGO)$estimate, 2)
+
+## Phi coefficient bentuk dasar =========
 round(unname(sqrt(chisq.test(ANGGO, correct = FALSE)$statistic/sum(ANGGO))), 1)
 
 ## Figure 3. Association plot ========
@@ -143,6 +146,9 @@ ANGGO_derived_mtx <- ANGGO_derived %>%
 ## Chi-Square test untuk data bentuk turunan ==========
 chisq.test(ANGGO_derived_mtx, correct = FALSE)
 chisq.test(ANGGO_derived_mtx, correct = FALSE)$expected # tampilkan frekuensi harapan
+
+## Odds Ratio untuk data bentuk turunan =======
+round(fisher.test(ANGGO_derived_mtx)$estimate, 2)
 
 ## Phi-Coefficient untuk data bentuk turunan ==========
 round(unname(sqrt(chisq.test(ANGGO_derived_mtx, correct = FALSE)$statistic/sum(ANGGO_derived_mtx))), 2)
